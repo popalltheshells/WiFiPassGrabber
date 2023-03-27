@@ -1,0 +1,1 @@
+Just a simple powershell script that can be used to grab all passwords used to previously connected WiFi SSIDs on a Windows system. Requires local admin; perfect if you want to move laterally in a red team with initial compromise on a user laptop/device.
